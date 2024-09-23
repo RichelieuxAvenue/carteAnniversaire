@@ -1,0 +1,31 @@
+.monkey_font {
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+body{
+    background-color: #1C5588;
+    color: #D46F4D;
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGV5ZWgzZG9sOWZkNGplZjk0Njhheng2eng1a296a2RrOGEybTRxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tk9mGeRPwnR2CryFQp/giphy.webp");
+    background-size: cover;
+}
+
+.photo img{
+    height: 500px;
+    width: 400px;
+    border-radius: 50%;
+}
+.text{
+    text-shadow: 4px 0px 2px black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
